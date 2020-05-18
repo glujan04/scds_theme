@@ -21,11 +21,11 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/abdelrahman146/ckanext-scds_theme',
+    url='https://github.com/glujan04/ckanext-scds_theme',
 
     # Author details
-    author='''Abdel Rahman Hussein''',
-    author_email='''abhussein@idom.com''',
+    author='''Alexander Villalobos''',
+    author_email='''avillalobos@idom.com''',
 
     # Choose your license
     license='AGPL',
