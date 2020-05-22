@@ -133,7 +133,7 @@ msgid ""
 "everyone, establishing new mechanisms for permanent and transparent "
 "communication with the citizenship. In turn, the licenses of each of the "
 "data sets are published, in order to facilitate their reuse."
-msgstr "Los Datos Abiertos y su reutilización redundan en una mejora de la calidad de vida de los ciudadanos en la medida en la que son el punto de partida para el desarrollo de nuevos servicios y aplicaciones que no de no ser por la puesta a disposición que de ellos se realiza no estarían disponibles A través de este espacio, la Agrupación de Municipios El Hierro en Red, persigue que los datos y la información se publiquen de forma abierta, regular y reutilizable para todo el mundo, estableciendo nuevos mecanismos de comunicación permanente y transparente con la ciudadanía. A su vez se encuentran publicadas las licencias de cada uno de los conjuntos de datos, con la finalidad de facilitar su reutilización."
+msgstr "Los Datos Abiertos y su reutilización redundan en una mejora de la calidad de vida de los ciudadanos en la medida en la que son el punto de partida para el desarrollo de nuevos servicios y aplicaciones que no de no ser por la puesta a disposición que de ellos se realiza no estarían disponibles A través de este espacio, la Agrupación de El Hierro en Red, persigue que los datos y la información se publiquen de forma abierta, regular y reutilizable para todo el mundo, estableciendo nuevos mecanismos de comunicación permanente y transparente con la ciudadanía. A su vez se encuentran publicadas las licencias de cada uno de los conjuntos de datos, con la finalidad de facilitar su reutilización."
 
 #: ckanext/scds_theme/templates/home/index.html:24
 msgid "Organizations"
