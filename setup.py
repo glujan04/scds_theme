@@ -22,7 +22,7 @@ setup(
 
     # The project's main homepage.
     #url='https://github.com/abdelrahman146/ckanext-scds_theme',
-    url=''https://github.com/glujan04/scds_theme',
+    url='https://github.com/glujan04/scds_theme',
     # Author details
     author='''Abdel Rahman Hussein''',
     author_email='''abhussein@idom.com''',
