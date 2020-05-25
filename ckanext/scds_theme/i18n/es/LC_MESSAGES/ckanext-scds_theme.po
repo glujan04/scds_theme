@@ -123,7 +123,7 @@ msgid "WELCOME"
 msgstr "BIENVENIDO"
 
 #: ckanext/scds_theme/templates/home/index.html:12
-msgid ""
+msgid "Welcome_content"
 "Open Data and its reuse result in an improvement in the quality of life 
 "of citizens to the extent that they are the starting point for the 
 "development of new services and applications, not for the fact that they 
