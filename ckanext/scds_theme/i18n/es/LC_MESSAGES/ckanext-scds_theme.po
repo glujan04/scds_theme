@@ -51,8 +51,8 @@ msgid "Statistics"
 msgstr "Estadísticas de uso"
 
 #: ckanext/scds_theme/templates/footer.html:35
-msgid "Open Data Portal of the Smart Costa del Sol Initiative"
-msgstr "Portal de Datos Abiertos de la Iniciativa El Hierro en Red"
+msgid "Open Data Portal of the Hierro en Red"
+msgstr "Portal de Datos Abiertos del Hierro en Red"
 
 #: ckanext/scds_theme/templates/footer.html:35
 msgid "All rights reserved"
@@ -123,17 +123,16 @@ msgid "WELCOME"
 msgstr "BIENVENIDO"
 
 #: ckanext/scds_theme/templates/home/index.html:12
-msgid ""
-"Open Data and its reuse result in an improvement in the quality of life "
-"of citizens to the extent that they are the starting point for the "
-"development of new services and applications, not for the fact that they "
-"are made available is carried out would not be available Through this "
-"space, the Smart Costa del Sol Municipalities Association seeks to make "
-"data and information published in an open, regular and reusable way for "
-"everyone, establishing new mechanisms for permanent and transparent "
-"communication with the citizenship. In turn, the licenses of each of the "
-"data sets are published, in order to facilitate their reuse."
-msgstr "Los Datos Abiertos y su reutilización redundan en una mejora de la calidad de vida de los ciudadanos en la medida en la que son el punto de partida para el desarrollo de nuevos servicios y aplicaciones que no de no ser por la puesta a disposición que de ellos se realiza no estarían disponibles A través de este espacio, la Agrupación de El Hierro en Red, persigue que los datos y la información se publiquen de forma abierta, regular y reutilizable para todo el mundo, estableciendo nuevos mecanismos de comunicación permanente y transparente con la ciudadanía. A su vez se encuentran publicadas las licencias de cada uno de los conjuntos de datos, con la finalidad de facilitar su reutilización."
+msgid "Open Data and its reuse result in an improvement in the quality of life 
+of citizens to the extent that they are the starting point for the 
+development of new services and applications, not for the fact that they 
+are made available is carried out would not be available Through this 
+space, the Smart Costa del Sol Municipalities Association seeks to make 
+data and information published in an open, regular and reusable way for 
+everyone, establishing new mechanisms for permanent and transparent 
+communication with the citizenship. In turn, the licenses of each of the 
+data sets are published, in order to facilitate their reuse."
+msgstr "Los Datos Abiertos y su reutilización redundan en una mejora de la calidad de vida de los ciudadanos en la medida en la que son el punto de partida para el desarrollo de nuevos servicios y aplicaciones que no de no ser por la puesta a disposición que de ellos se realiza no estarían disponibles A través de este espacio, la Agrupación del Hierro en Red, persigue que los datos y la información se publiquen de forma abierta, regular y reutilizable para todo el mundo, estableciendo nuevos mecanismos de comunicación permanente y transparente con la ciudadanía. A su vez se encuentran publicadas las licencias de cada uno de los conjuntos de datos, con la finalidad de facilitar su reutilización."
 
 #: ckanext/scds_theme/templates/home/index.html:24
 msgid "Organizations"
