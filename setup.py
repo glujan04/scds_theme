@@ -23,7 +23,7 @@ setup(
     # The project's main homepage.
     #url='https://github.com/abdelrahman146/ckanext-scds_theme',
     #url='https://idom.visualstudio.com/El%20Hierro%20en%20Red/_git/c18-ckan/ckanext-scds-theme',
-	url='https://github.com/glujan04/ckanext-scds_theme',
+    url='https://github.com/glujan04/ckanext-scds_theme',
     # Author details
     author='''Abdel Rahman Hussein''',
     author_email='''abhussein@idom.com''',
