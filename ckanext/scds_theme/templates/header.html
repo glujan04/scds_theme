@@ -88,18 +88,24 @@ Brand and toggle get grouped for better mobile display -->
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/" style="padding-top: 0px"><img alt="El Hierro en Red" src="/logo.png" width="252px" height="63px"></a>
+            <a href="/" style="padding-top: 0px"><img alt="El Hierro en Red" src="/logo.png" width="252px" height="63px"></a>
           </div>
 
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse" id="bs-nav-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right scds_nav">
-              <li><a href="{{ h.url_for('/') }}">{{ _('Description of the initiative') }}</a></li>
-              <li><a href="{{ h.url_for('/dataset') }}">{{ _('Datasets') }}</a></li>
-              <li><a href="{{ h.url_for('/sparql') }}">SPARQL</a></li>
-              <li><a href="http://dev.idom.com:29853/api">API</a></li>
-              <li><a href="{{ h.url_for('/stats') }}">{{ _('Statistics') }}</a></li>
-            </ul>
+           <table width="100%">
+              <tr>
+                 <td width="300px"><a href="/"><img alt="El Hierro en Red" src="/logo.png" width="252px" height="63px"></a></td>
+                 <td>     <ul class="nav navbar-nav navbar-right scds_nav">
+                          <li><a href="https://catalogoelhierro.idomdev.es/">{{ _('Description of the initiative') }}</a></li>
+                          <li><a href="https://catalogoelhierro.idomdev.es/dataset">{{ _('Datasets') }}</a></li>
+                          <li><a href="https://catalogoelhierro.idomdev.es/sparql">SPARQL</a></li>
+                          <li><a href="https://opendataelhierro.idomdev.es/api">API</a></li>
+                          <li><a href="https://catalogoelhierro.idomdev.es/stats">{{ _('Statistics') }}</a></li>
+                        </ul>
+                  </td>
+               </tr>
+            </table>
           </div>
           <!-- /.navbar-collapse -->
         </div>
