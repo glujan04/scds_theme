@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ckanext-scds_theme 0.0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-02 01:01+0000\n"
+"POT-Creation-Date: 2020-06-02 07:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -134,23 +134,23 @@ msgid ""
 " reuse."
 msgstr ""
 
-#: ckanext/scds_theme/templates/home/index.html:24
+#: ckanext/scds_theme/templates/home/index.html:20
 msgid "Organizations"
 msgstr ""
 
-#: ckanext/scds_theme/templates/home/index.html:25
+#: ckanext/scds_theme/templates/home/index.html:21
 msgid "Groups"
 msgstr ""
 
-#: ckanext/scds_theme/templates/home/index.html:63
+#: ckanext/scds_theme/templates/home/index.html:59
 msgid "Recently Updated"
 msgstr ""
 
-#: ckanext/scds_theme/templates/home/index.html:69
+#: ckanext/scds_theme/templates/home/index.html:65
 msgid "Organization"
 msgstr ""
 
-#: ckanext/scds_theme/templates/home/index.html:78
+#: ckanext/scds_theme/templates/home/index.html:74
 msgid "Cloud of Tags"
 msgstr ""
 
