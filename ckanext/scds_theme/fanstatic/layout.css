@@ -116,3 +116,34 @@ footer.scds_footer .footer_menu .list-group .list-group-item:last-child {
 .lang-item a:hover {
  text-decoration: none;
 }
+
+.top_nav {
+ margin: 0;
+ padding: 0;
+ list-style-type: none;
+ margin-top: 6px;
+ font-size: 14px;
+ color: white;
+}
+
+.top_nav li{
+ padding: 0px 10px;
+ border-left: 1px white solid;
+ display: inline;
+}
+
+.top_nav li:first-child {
+ border:none;
+}
+
+.top_nav a {
+ color: white;
+ text-decoration: none;
+ margin: 0;
+ padding: 0;
+}
+
+.top_nav a:hover {
+ color: white;
+ text-decoration: underline;
+}
