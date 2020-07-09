@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ckanext-scds_theme 0.0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-25 00:49+0000\n"
+"POT-Creation-Date: 2020-06-02 07:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,8 +49,8 @@ msgid "Statistics"
 msgstr "Estadísticas"
 
 #: ckanext/scds_theme/templates/footer.html:35
-msgid "Open Data Portal of the Hierro en Red Initiative"
-msgstr "Portal de datos abiertos de la Iniciativa El Hierro el Red"
+msgid "Open Data Portal of the Smart Costa del Sol Initiative"
+msgstr ""
 
 #: ckanext/scds_theme/templates/footer.html:35
 msgid "All rights reserved"
@@ -102,11 +102,11 @@ msgstr "Preferencias"
 #: ckanext/scds_theme/templates/header.html:50
 #: ckanext/scds_theme/templates/header.html:52
 msgid "Log out"
-msgstr "Cerrar Sesión"
+msgstr ""
 
 #: ckanext/scds_theme/templates/header.html:62
 msgid "Log in"
-msgstr "Iniciar Sesión"
+msgstr ""
 
 #: ckanext/scds_theme/templates/header.html:64
 msgid "Register"

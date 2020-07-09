@@ -4,6 +4,7 @@
 # project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: ckanext-scds_theme 0.0.1\n"
@@ -19,66 +20,66 @@ msgstr ""
 
 #: ckanext/scds_theme/templates/footer.html:7
 msgid "Quick Access"
-msgstr "Acceso Rápido"
+msgstr ""
 
 #: ckanext/scds_theme/templates/footer.html:9
 #: ckanext/scds_theme/templates/header.html:101
 msgid "Description of the initiative"
-msgstr "Descripción de la Iniciativa"
+msgstr ""
 
 #: ckanext/scds_theme/templates/footer.html:10
 msgid "News, information and updates"
-msgstr "Noticias, información y actualizaciones"
+msgstr ""
 
 #: ckanext/scds_theme/templates/footer.html:11
 msgid " Documentation and help"
-msgstr "Documentación y ayuda"
+msgstr ""
 
 #: ckanext/scds_theme/templates/footer.html:12
 msgid "Terms and license"
-msgstr "Licencia"
+msgstr ""
 
 #: ckanext/scds_theme/templates/footer.html:17
 #: ckanext/scds_theme/templates/header.html:102
 msgid "Datasets"
-msgstr "Conjuntos de Datos"
+msgstr ""
 
 #: ckanext/scds_theme/templates/footer.html:18
 #: ckanext/scds_theme/templates/header.html:105
 msgid "Statistics"
-msgstr "Estadísticas"
+msgstr ""
 
 #: ckanext/scds_theme/templates/footer.html:35
 msgid "Open Data Portal of the Hierro en Red Initiative"
-msgstr "Portal de datos abiertos de la Iniciativa El Hierro el Red"
+msgstr ""
 
 #: ckanext/scds_theme/templates/footer.html:35
 msgid "All rights reserved"
-msgstr "Todos los derechos reservados"
+msgstr ""
 
 #: ckanext/scds_theme/templates/footer.html:39
 msgid "Legal Warning"
-msgstr "Aviso Legal"
+msgstr ""
 
 #: ckanext/scds_theme/templates/footer.html:39
 msgid "Accessibility"
-msgstr "Accesibilidad"
+msgstr ""
 
 #: ckanext/scds_theme/templates/header.html:10
 msgid "Reports"
-msgstr "Informes"
+msgstr ""
 
 #: ckanext/scds_theme/templates/header.html:19
 msgid "Sysadmin settings"
-msgstr "Configuración del Sistema"
+msgstr ""
 
 #: ckanext/scds_theme/templates/header.html:21
 msgid "Admin"
-msgstr "Administración"
+msgstr ""
 
 #: ckanext/scds_theme/templates/header.html:26
 msgid "View profile"
-msgstr "Ver perfil"
+msgstr ""
 
 #: ckanext/scds_theme/templates/header.html:33
 #, python-format
@@ -89,36 +90,36 @@ msgstr[1] ""
 
 #: ckanext/scds_theme/templates/header.html:37
 msgid "Dashboard"
-msgstr "Cuadro de Mandos"
+msgstr ""
 
 #: ckanext/scds_theme/templates/header.html:43
 msgid "Edit settings"
-msgstr "Editar preferencias"
+msgstr ""
 
 #: ckanext/scds_theme/templates/header.html:45
 msgid "Settings"
-msgstr "Preferencias"
+msgstr ""
 
 #: ckanext/scds_theme/templates/header.html:50
 #: ckanext/scds_theme/templates/header.html:52
 msgid "Log out"
-msgstr "Cerrar Sesión"
+msgstr ""
 
 #: ckanext/scds_theme/templates/header.html:62
 msgid "Log in"
-msgstr "Iniciar Sesión"
+msgstr ""
 
 #: ckanext/scds_theme/templates/header.html:64
 msgid "Register"
-msgstr "Registro"
+msgstr ""
 
 #: ckanext/scds_theme/templates/home/index.html:3
 msgid "Welcome"
-msgstr "Bienvenido"
+msgstr ""
 
 #: ckanext/scds_theme/templates/home/index.html:10
 msgid "WELCOME"
-msgstr "Bienvenido"
+msgstr ""
 
 #: ckanext/scds_theme/templates/home/index.html:12
 msgid ""
@@ -131,49 +132,49 @@ msgid ""
 "permanent and transparent communication with the citizenship. In turn, the "
 "licenses of each of the data sets are published, in order to facilitate their"
 " reuse."
-msgstr "Los datos abiertos y su reutilización redundan en una mejora de la calidad de vida de los ciudadanos en el sentido en que son el punto de partida para el desarrollo de nuevos servicios y aplicaciones que de no ser por la puesta a disposición que de ellos se realiza no estarían disponibles. A través de este espacio, la iniciativa El Hierro en Red, persigue que los datos y la información se publiquen de forma abierta, regular y reutilizable para todo el mundo, estableciendo nuevos mecanismos de comunicación permanente y transparente con la ciudadanía. A su vez se encuentran publicadas las licencias de cada uno de los conjuntos de datos, con la finalidad de facilitar su reutilización"
+msgstr ""
 
 #: ckanext/scds_theme/templates/home/index.html:20
 msgid "Organizations"
-msgstr "Áreas Administrativas"
+msgstr ""
 
 #: ckanext/scds_theme/templates/home/index.html:21
 msgid "Groups"
-msgstr "Temáticas"
+msgstr ""
 
 #: ckanext/scds_theme/templates/home/index.html:59
 msgid "Recently Updated"
-msgstr "Recientemente Actualizados"
+msgstr ""
 
 #: ckanext/scds_theme/templates/home/index.html:65
 msgid "Organization"
-msgstr "Área Ádministrativa"
+msgstr ""
 
 #: ckanext/scds_theme/templates/home/index.html:74
 msgid "Cloud of Tags"
-msgstr "Nube de Etiquetas"
+msgstr ""
 
 #: ckanext/scds_theme/templates/package/snippets/resource_item.html:24
 msgid "Explore"
-msgstr "Explorar"
+msgstr ""
 
 #: ckanext/scds_theme/templates/package/snippets/resource_item.html:33
 msgid "Preview"
-msgstr "Preview"
+msgstr ""
 
 #: ckanext/scds_theme/templates/package/snippets/resource_item.html:36
 msgid "More information"
-msgstr "Más información"
+msgstr ""
 
 #: ckanext/scds_theme/templates/package/snippets/resource_item.html:45
 msgid "Download"
-msgstr "Descargar"
+msgstr ""
 
 #: ckanext/scds_theme/templates/package/snippets/resource_item.html:48
 msgid "Go to resource"
-msgstr "Ir al recurso"
+msgstr ""
 
 #: ckanext/scds_theme/templates/package/snippets/resource_item.html:57
 msgid "Edit"
-msgstr "Editar"
+msgstr ""
 
