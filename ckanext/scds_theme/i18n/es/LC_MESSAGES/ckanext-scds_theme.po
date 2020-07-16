@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ckanext-scds_theme 0.0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-06-25 00:49+0000\n"
+"POT-Creation-Date: 2020-07-13 16:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,7 +22,7 @@ msgid "Quick Access"
 msgstr "Acceso Rápido"
 
 #: ckanext/scds_theme/templates/footer.html:9
-#: ckanext/scds_theme/templates/header.html:101
+#: ckanext/scds_theme/templates/header.html:47
 msgid "Description of the initiative"
 msgstr "Descripción de la Iniciativa"
 
@@ -39,18 +39,18 @@ msgid "Terms and license"
 msgstr "Licencia"
 
 #: ckanext/scds_theme/templates/footer.html:17
-#: ckanext/scds_theme/templates/header.html:102
+#: ckanext/scds_theme/templates/header.html:48
 msgid "Datasets"
 msgstr "Conjuntos de Datos"
 
 #: ckanext/scds_theme/templates/footer.html:18
-#: ckanext/scds_theme/templates/header.html:105
+#: ckanext/scds_theme/templates/header.html:51
 msgid "Statistics"
 msgstr "Estadísticas"
 
 #: ckanext/scds_theme/templates/footer.html:35
 msgid "Open Data Portal of the Hierro en Red Initiative"
-msgstr "Portal de datos abiertos de la Iniciativa El Hierro el Red"
+msgstr "Portal de datos abiertos de la Iniciativa El Hierro en Red"
 
 #: ckanext/scds_theme/templates/footer.html:35
 msgid "All rights reserved"
@@ -64,53 +64,21 @@ msgstr "Aviso Legal"
 msgid "Accessibility"
 msgstr "Accesibilidad"
 
-#: ckanext/scds_theme/templates/header.html:10
-msgid "Reports"
-msgstr "Informes"
-
-#: ckanext/scds_theme/templates/header.html:19
-msgid "Sysadmin settings"
-msgstr "Configuración del Sistema"
-
-#: ckanext/scds_theme/templates/header.html:21
-msgid "Admin"
-msgstr "Administración"
-
-#: ckanext/scds_theme/templates/header.html:26
-msgid "View profile"
-msgstr "Ver perfil"
-
-#: ckanext/scds_theme/templates/header.html:33
-#, python-format
-msgid "Dashboard (%(num)d new item)"
-msgid_plural "Dashboard (%(num)d new items)"
-msgstr[0] ""
-msgstr[1] ""
-
-#: ckanext/scds_theme/templates/header.html:37
+#: ckanext/scds_theme/templates/header.html:7
 msgid "Dashboard"
-msgstr "Cuadro de Mandos"
+msgstr "Dashboard"
 
-#: ckanext/scds_theme/templates/header.html:43
-msgid "Edit settings"
-msgstr "Editar preferencias"
+#: ckanext/scds_theme/templates/header.html:8
+msgid "Admin panel"
+msgstr "Panel de administrador"
 
-#: ckanext/scds_theme/templates/header.html:45
-msgid "Settings"
-msgstr "Preferencias"
-
-#: ckanext/scds_theme/templates/header.html:50
-#: ckanext/scds_theme/templates/header.html:52
+#: ckanext/scds_theme/templates/header.html:9
 msgid "Log out"
 msgstr "Cerrar Sesión"
 
-#: ckanext/scds_theme/templates/header.html:62
+#: ckanext/scds_theme/templates/header.html:11
 msgid "Log in"
 msgstr "Iniciar Sesión"
-
-#: ckanext/scds_theme/templates/header.html:64
-msgid "Register"
-msgstr "Registro"
 
 #: ckanext/scds_theme/templates/home/index.html:3
 msgid "Welcome"
